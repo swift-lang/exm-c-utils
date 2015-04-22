@@ -1,3 +1,5 @@
+*This repository has migrated to https://github.com/swift-lang/swift-t*
+
 c-utils is collection of data structures and other utility functions.
 
 c-utils is developed as part of the ExM project.  For further details on
